@@ -1,4 +1,3 @@
-
 /**
  * @author: BeginnersBook.com
  * @description: Get sum of array elements
@@ -12,6 +11,4 @@ class SumOfArray{
           sum = sum+num;
       }
       System.out.println("Sum of array elements is:"+sum);
-   }
-}
-
+   }}
