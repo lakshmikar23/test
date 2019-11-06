@@ -1,2 +1,7 @@
-hi this is supraja
-hi i am changing code-lakshmikar
+class sup
+{
+  public static void main(string args[])
+   {
+     System.out.println("how are you");
+    }
+  }  
